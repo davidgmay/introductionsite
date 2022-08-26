@@ -1,0 +1,59 @@
+body{
+  background-color: #E1F2FB;
+  text-align: center;
+  font-family: times new roman;
+}
+h1 {
+  text-align: center;
+  color: #A7C5EB;
+
+}
+.here {
+  padding-bottom: 150px;
+}
+.image1 {
+    width: 15%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 10px;
+  height: 100px;
+  width: 30%;
+}
+.image2 {
+  padding-bottom: 100px;
+    max-width: 10%;
+}
+.welcome {
+  max-width: 5%
+}
+.mountain {
+  display: inline;
+  position: relative;
+  bottom: 100px;
+  width: 50%;
+  height: 875px;
+}
+.quotebutton:hover {
+  background-color: #A6D1E6;
+  color: white;
+  border: 2px solid #3120E0;
+  transition-duration: 0.2s;
+}
+.quotebutton {
+  background-color: #0096FF;
+  color: white;
+}
+
+.browse {
+  padding-bottom: 25px;
+}
+
+.bottom-container {
+  padding-bottom: 25px;
+}
